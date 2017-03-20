@@ -9,7 +9,7 @@ h2:
    href: "#version-control"
 ---
 ## Introduction
-This administrative guide documents standard operating procedures in External Affairs. If you have any ideas or comments on how to improve this guide, please send us feedback at [EA (Admin)@peacecorps.gov](mailto:EAAdmin@peacecorps.gov).
+This guide covers standard operating procedures in External Affairs. If you have ideas or feedback on how to improve this guide, please let us know at [EA (Admin)@peacecorps.gov](mailto:EAAdmin@peacecorps.gov).
 
 This guide is best viewed in Google Chrome.
 
