@@ -1,0 +1,61 @@
+Task,Responsible Person,Contributor,Action
+1,Hiring Manager,,Hiring Manager identifies a vacancy
+2,HR Liason,Hiring Manager,"HR liason works with Hiring Manager through HR's Domestic Hiring Process (LINK)
+Things to keep in mind
+-Positions must be posted for 2 weeks
+-Positions can be posted internal, external, or both
+-HR performs a quality review of each applicant
+-Internal rosters are issued before external roster
+-For the External List, HR will issue the top 20 candidates. Vets must be passed over before the next 20 candidates are issued."
+3,Hiring Manager,Paper Panel,"Hiring Manager identifies another staff member to join them on the paper panel.The paper panel should be the Hiring Manager and one other staffer. The staffer should be someone who is familiar with the position requirements.
+The paper panel reviews the applicants and decides which applicants to interview. Feel free to reach out to the CAO for help or guidance on this"
+4,Hiring Manager,Interview Panel,"The hiring manager selects the Interview panel.
+The interview panel must meet the following requirements:
+-At least one member of the panel must work outside of the immediate office or team
+-All members of the panel must be at the same grade or higher than the applicant (i.e., FP-x or higher)
+-When forming an interview panel, the Hiring Manager must ""consider the diversity of interview panel membership, including but not limited to race, gender, work expereince, and national origin."""
+5,Hiring Manager,Interview Panel,The interview panel coordinates interviews directly with the applicants by emailing or calling them.
+6,Hiring Manager,Interview Panel,"The hiring manager is responsbile for developing interview questions. We encourage using Structured Interviews. In a structured interview, every applicant is asked the same series of questions by the interview panel. Please refer to this thorough guide to developing and conducting structured interviews, developed by OPM. "
+7,Hiring Manager,Interview Panel,"The interview panel holds interviews for selected applicants. While conducting interviews, the panel gives each applicant a score based on the quality of their answers. The score breakdown is outlined below:
+1. Did not understand the question, did not answer the question given. Or the answer given was either incorrect, or inconsistent.
+2.  Understood the question, but did not have experience or could not demonstrate relative experience/skill that could lend itself to accomplishing. Or attempted to answer the question but portrayed an inconsistent or incorrect message/skill/interpretation of a rule/strategy/policy/procedure.
+3.  Understood the question, has relatable/relevant/similar skill which could easily translate, but not the exact experience/skill.
+4. Had exact experience and demonstrated good working knowledge. Had consistent answer, message.
+5. Provided extremely strong exact experience, superior knowledge."
+8,Hiring Manager,"Interview Panel, CAO","After the interview panel has finished interviewing applicants, the panel convenes and selects one applicant to hire. The selected applicant is then provided to the CAO.
+Note: Before proceeding with hiring process, the hiring manager must have support from EA Associate Director and Senior Advisor."
+9,Hiring Manager,CAO,Hiring Manager recommends candidate for hire to CAO
+10,Hiring Manager,Candidate,"Hiring Manager should inform the candidate of that they will be ""recommending"" their selection to HRM
+
+PDF example
+
+Ex: Dear Candidate,
+
+I wanted to send you a quick note that we put forth our selection memo to HR recommending you for hire. You should hear from them within the next few days. They will send you security forms to complete- it is very important that you submit these forms as soon as possible, as any delay in your participation will result in the delay of your start date. If you have any questions about logistics/making a decision/next steps, please feel free to reach out to me directly (or to HR)."
+11,CAO,Hiring Manager,"CAO drafts selection memo and sends to Hiring Manager for e-signature
+
+Hiring Manager returns signed selection memo"
+12,CAO,HRM,CAO submits selection memo to HR Specialist for processing
+13,HR Specialist,Candidate,"INTERNAL: HR Specialist notifies Candidate via email or phone. HR Specialist asks Candidate to notify them when they have told their Losing Supervisor (so that HRM does not surprise the Losing Supervisor).
+
+EXTERNAL: HR Specialist notifies Candidate via email or phone and requests salary documentation. Candidate sends salary documentation. Example email here: INSERT EMAIL"
+14,HR Specialist,Candidate,"EXTERNAL: HR Specialist sends Candidate a ""Tentative Offer Letter"". The offer is tentative because it is contingent upon the Candidate's ability to receive a security clearance. An example Tenative Offer Letter can be found here: ."
+15,HR Specialist,N/A,EXTERNAL: HR Specialist sponsors Candidate in GSA's USAccess. USAccess sends Candidate an invitation to make an appointment at a local GSA office. Candidate will be fingerprinted and photographed at the appointment. Note: Fingerprinting now occurs at the GSA office; they no longer need to mail the fingerprint cards directly to Peace Corps.
+16,HR Specialist,SS,EXTERNAL: HR Specialist submits completed security forms to SS
+17,SS,Candidate,EXTERNAL: SS begins adjudication process and sends Candidate invitation to complete e-QIP
+18,Candidate,N/A,EXTERNAL: Candidate completes/submits e-QIP.
+19,SS,N/A,"EXTERNAL: After receiving the completed e-QIP, SS initiates a background check. This process usually takes 2-3 weeks. Most candidates receive preliminary clearance first. Candidate retention is contingent upon favorable findings of the final clearance, which is a lengthy security investigation and may take between one month and one year."
+20,SS,HR Specialist,EXTERNAL: SS notifies HR Specialist of preliminary clearance
+21,HR Specialist,Candidate,EXTERNAL: HR Specialist sends Candidate options for start date. Candidate informs HR Specialist of requested start date. Example email here:
+22,HR Specialist,Candidate,"HR Specialist sends Candidate a ""Final Offer Letter"" with salary, start date, and tour of duty. CAO is bcc'd on Final Offer Letter."
+23,CAO,Hiring Manager,"CAO notifies Hiring Manager of final offer, start date, and next steps."
+24,EA Admin,Helpdesk,EA Admin enters New Employee information into PTS. This prompts Helpdesk to create the new user's account and email address.
+25,Manager,N/A,"Prior to New Employee's start day, Manager readies desk and materials. Manager prints out the following documents:
+IT Security Test
+IT Security Test Answer Key
+Rules of Behavior for General Users Your Information Security Responsibilities
+Users Verification Form"
+26,New Employee,N/A,New Employee attends orientation (NEO) for 1.5 days. New Employee reports upstairs to Manager around12:00pm after orientation ends on their second day. This time may vary.
+27,Manager,New Employee,"Manager provides New Employee with office materials and IT packet. After the New Employee completes the IT Security Test, the Manager reviews their answers and provides clarifications as needed."
+28,"Manager, Intern","Help Desk, CAO",New Employee signs Users Verification Form​. Manager scans signed form and emails it to helpdesk@peacecorps.gov and CAO.
+29,Help Desk,"SS, Manager",Help Desk receives Users Verification Form and confirms with SS that they are clear to start. Help Desk activates account and provides temporary password to Manager's email. This process may take 30 minutes.

@@ -1,0 +1,15 @@
+<div class="container-fluid">
+
+      <div class="row">
+        <div class="col-12 col-md-9 bd-content" id="scroll-me">
+            {% for topic in site.topics %} {{ topic.content }}
+            <hr> {% endfor %}
+        </div>
+
+        <div class="col-12 col-md-3 bd-sidebar" id="navbar-content">
+            {% include navbarMain.html %}
+        </div>
+      </div>
+
+
+</div>

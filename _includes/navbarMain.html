@@ -1,0 +1,23 @@
+<div class="bd-links sticky" data-spy="scroll">
+  <ul class="bd-toc-item" id="navbar">
+    {% for topic in site.topics %}
+    {% assign active = nil %}
+    <li>
+      <a class="nav-link bd-toc-link" href="{{ topic.href }}">
+        {{ topic.title }}
+      </a>
+        <ul class="bd-sidenav nav-link nav flex-column" id="sidenav-content">
+          {% for subs in topic.h2 %}
+          {% assign subs-title = subs.title %}
+          {% assign subs-href = subs.href %}
+          <li>
+              <a class="nav-link bd-sidenav" href="{{ subs-href }}">
+                {{ subs-title }}
+              </a>
+          </li>
+              {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

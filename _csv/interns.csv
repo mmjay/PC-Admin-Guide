@@ -1,0 +1,46 @@
+Task,Responsible Person,Contributor,Action
+1,Intern Applicants,N/A,"Intern applicants email resume and cover letter in one PDF file saved as Lastname.Firstname (ex: Smith.Tom) to <a href='mailto:Internships@peacecorps.gov'>Internships@peacecorps.gov</a>."
+2,Manager,EA Admin,"HRM maintains a folder of Intern applications at <u>S:\@Agency_All\Intern and Student Programs</u>. HRM removes Intern applications as they are selected, but HRM does not track which Intern Applicants have already been contacted by Peace Corps. If you do not have access to this folder, please contact the EA Admin team.
+<br /><br />
+Managers may also post internship openings on local university job boards; please see the EA Admin team for additional information."
+3,Manager,Intern Applicants,"Manager contacts Intern Applicants directly to discuss the internship opportunity and schedule interviews. Managers may conduct interviews at their discretion.
+<br /><br /><span class='fa fa-file-word-o'></span> <a href='https://in.peacecorps.gov/HQ/EA/SiteAssets/Intern%20Docs/Intern%20Interview%20Questions.docx'>Sample Intern Interview Questions.docx</a>"
+4,Manager,"HRM, CAO","Manager identifies Intern Candidate to hire and submits the following four forms to <a href='mailto:Internships@peacecorps.gov'>Internships@peacecorps.gov</a> and CAO:
+
+<ul><li>Intern Candidate's resume</li>
+<li>Description of Duties (<a href='https://in.peacecorps.gov/HQ/EA/SiteAssets/Intern%20Docs/Internship%20Description%20of%20Duties%20Sample.docx'>sample</a>)</li>
+<li><a href='https://in.peacecorps.gov/HQ/EA/SiteAssets/Intern%20Docs/Intern%20and%20Student%20Request%20Form.docx'>Intern and Student Request Form</a></li>
+<li><a href='https://in.peacecorps.gov/HQ/EA/SiteAssets/Intern%20Docs/Volunteer%20Agreement%20Form.docx'>Volunteer Service Agreement</a>
+<br /><span class='small'>Note: Intern Candidates do not need to sign Volunteer Service Agreement at this step.</span></li></ul>"
+5,Manager,Intern,Manager notifies Intern of intent to hire and next steps.
+6,HRM,"Manager, CAO",HRM notifies Manager and CAO that forms have been received (est. two business days).
+7,HRM,Intern,HRM sends tentative offer letter to Intern. Intern is asked to fill out security paperwork and fingerprint cards.
+8,Intern,HRM,Intern sends HRM completed security paperwork and fingerprint cards.
+9,HRM,SS,HRM creates a Workplace Authorization Form and submits it to the Office of Safety and Security (SS) for processing.
+10,SS,Intern,SS sends the Intern an invitation to complete eQIP.
+11,Intern,SS,Intern finishes eQIP and submits to SS.
+12,SS,N/A,SS begins adjudication/background investigation process after receiving a complete eQIP.
+13,SS,HRM,SS notifies HRM of adjudication/background investigation results.
+14,Intern,"Manager, CAO","HRM sends a welcome letter to the Intern copying the Manager and CAO. The proposed start date and orientation information will be included in letter.
+
+All interns must attend orientation unless attended in the past 3 years. Orientation is conducted on the first Monday of each pay period. The Manager will be notified once the intern has completed orientation."
+15,CAO,N/A,CAO enters Intern information into PTS and creates a help desk ticket to establish their Peace Corps email account.
+16,Manager,Intern,Manager coordinates with Intern to confirm work schedule and their start date. HRM and Intern will have already discussed availability for orientation but Manager needs to confirm if Intern is available to start directly after orientation or an alternative date.
+17,Manager,N/A,"Prior to Interns first day, Manager readies desk and materials. Manager prints out the following documents:
+<ul><li><a href='https://in.peacecorps.gov/HQ/EA/SiteAssets/New%20Employee%20Docs/IT%20Security%20Test.pdf'>IT Security Test</a></li>
+<li><a href='https://in.peacecorps.gov/HQ/EA/SiteAssets/New%20Employee%20Docs/IT%20Security%20Test%20Answer%20Key.pdf'>IT Security Test Answer Key</a></li>
+<li><a href='https://in.peacecorps.gov/HQ/EA/SiteAssets/New%20Employee%20Docs/Rules%20of%20Behavior%20for%20General%20Users.pdf'>Rules of Behavior for General Users</a></li>
+<li><a href='https://in.peacecorps.gov/HQ/EA/SiteAssets/New%20Employee%20Docs/Your%20Information%20Security%20Responsibilities.pdf'>Your Information Security Responsibilities</a></li>
+<li><a href='https://in.peacecorps.gov/HQ/EA/SiteAssets/New%20Employee%20Docs/Users%20Verification%20Form.pdf'>Users Verification Form</a></li></ul>"
+18,Intern,N/A,"Intern attends orientation from 9:30am to 12pm. Intern reports upstairs to Manager after orientation ends."
+19,Manager,Intern,"Manager provides Intern with office materials and IT packet. After the Intern completes the IT Security Test, the Manager reviews their answers and provides clarifications as needed."
+20,"Manager, Intern","Help Desk, CAO",Intern signs Users Verification Form. Manager scans/submits form to <a href='mailto:helpdesk@peacecorps.gov'>helpdesk@peacecorps.gov</a> and CAO.
+21,Help Desk,"SS, Manager",Help Desk receives Users Verification Form and confirms with SS that they are clear to start. Help Desk activates account and provides temporary password to Manager's email. This process may take 30 minutes.
+22,Intern and Manager,HRM,"All Unpaid Interns are required to fill out a PDF timesheet each month, but they do not need to enter time into WebTA. The timesheet must be signed by both Intern and Manager and submitted to Internships@peacecorps.gov.
+<br /><br />
+<span class='fa fa-file-pdf-o'></span> <a href='https://in.peacecorps.gov/HQ/EA/SiteAssets/Intern%20Docs/Intern%20Timesheet.pdf'>Intern Timesheet</a>"
+23,Manager,CAO,"Managers may extend an Unpaid Intern by submitting an updated Intern and Student Request Form to <a href='mailto:Internships@peacecorps.gov'>Internships@peacecorps.gov</a> and CAO."
+24,CAO,SS,"For Unpaid Intern extensions, CAO enters new end date into PTS and notifies SS to extend Intern badge."
+25,Intern,Manager,"All Unpaid Interns must complete an exit checklist when separating from the agency or converting to staff.
+<br /><br />
+<span class='fa fa-file-word-o'></span> <a href='https://in.peacecorps.gov/HQ/EA/SiteAssets/Intern%20Docs/Intern%20Student%20Exit%20Checklist.doc'>Intern Student Exit Checklist</a>"
