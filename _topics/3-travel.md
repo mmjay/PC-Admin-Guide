@@ -24,17 +24,17 @@ External Affairs follows the following travel policies:
 - You may take paid time-off in conjunction with travel, if approved by your supervisor.
 - You may deviate from the official travel route, if approved by your supervisor. Reimbursement cannot exceed the original SATO quote.
 
-## Preparing to travel
+## Travel authorization process
 <table class="table table-hover table-responsive">
   <thead class="thead-default">
     <tr>
-    {% for header in site.data.before-travel.keys %}
+    {% for header in site.data.travel-auth.keys %}
       <th>{{header}}</th>
     {% endfor %}
     </tr>
   </thead>
   <tbody>
-    {% for row in site.data.before-travel.content %}
+    {% for row in site.data.travel-auth.content %}
     <tr>
     {% for column in row %}
       <td>{{column}}</td>
@@ -44,15 +44,34 @@ External Affairs follows the following travel policies:
   </tbody>
 </table>
 
-## During Travel
-While traveling, you should always carry a copy of your Travel Authorization and your itinerary from SATO.
-Keep all of your receipts.
-If your itinerary changes for whatever reason while you are on your trip (for example: weather) you must contact SATO immediately. You can reach them at 202-692-1170. If it is after hours, this number will roll over to their emergency hotline. There should always be someone to answer the phone. At the bottom of your SATO itinerary is more contact information for SATO, and an individual reference number for your trip.
-```
-If you find yourself in a dangerous situation, you must immediately reach out to the appropriate authorities. Here is a link to the State Department webpage titled, "Emergencies Abroad." It has an Embassy Locator, and several other helpful resources.
-```
+## International travel approval
+International travel follows the above travel authorization process, **but requires additional approval from the Region**.
+- International travel approval takes 1 business week. To start the process, contact your supervisor and the EA Admin team.
+- Requests for site visits from post do not constitute travel approval.
+- Staff should not reach out to post without direct approval from the Region.
+- Do not begin making travel arrangements until you have direct approval from the Region.
 
-## Travel Authorization form
+## Overseas travel checklist
+Make sure you have the following before your international trip:
+- Approved TA
+- Ticketed airfare
+- Detailed travel itinerary (developed in conjunction with Post)
+- Official passport
+  - Apply via SATO at SATO@peacececorps.gov or at 202-692-1170
+- Travel card
+  - See [Travel Card Resource Center]
+- Visa(s) for each destination as applicable
+  - https://travel.state.gov/content/passports/en/country.html
+- Immunizations
+  - CDC: [https://wwwnc.cdc.gov/travel/destinations/list](https://wwwnc.cdc.gov/travel/destinations/list)
+  - State Department: [https://www.state.gov/m/fsi/tc/1865.htm](https://www.state.gov/m/fsi/tc/1865.htm)
+  <br>_Travel-related immunizations received outside of State Department can be reimbursed if the TA specifically authorizes it_
+- eCountry Clearance
+  - [https://ecc.state.gov/security/EccLogin.aspx](https://ecc.state.gov/security/EccLogin.aspx)
+
+## Reimbursement via Travel Voucher
+After your trip, and within 5 business days, submit your claim for reimbursement via the Travel Voucher form.
+-
 
 ## Travel Voucher form
 You must submit a Travel Voucher within 5 days of returning from your trip. It is possible that you may not be reimbursed for certain expenses if you wait too long to submit your Travel Voucher.
