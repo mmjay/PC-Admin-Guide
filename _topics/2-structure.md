@@ -6,7 +6,7 @@ h2:
  - title: "Org chart"
    href: "#organizational-structure"
 ---
-## Department info
+# Department info
 The Office of External Affairs provides coordination and support for the Peace Corps' external engagement with other agencies and partners, the media, and Congress.
 
 ## Organizational structure

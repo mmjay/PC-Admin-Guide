@@ -10,7 +10,7 @@ h2:
  - title: "Advertising internship opportunities"
    href: "#advertising-internship-opportunities"
 ---
-## Internships
+# Internships
 Our office follows M/HRM's procedures for student internships. You can reference that document here:
 
 <span class="fa fa-file-pdf-o" markdown="0"></span> [Intern and Student Programs (December 2015).pdf](https://in.peacecorps.gov/HQ/EA/SiteAssests/Intern Docs/Intern and Student Programs (December 2015).pdf)
