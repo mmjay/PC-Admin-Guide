@@ -6,8 +6,7 @@ h2:
  - title: "Preparing to travel"
    href: "#preparing-to-travel"
 ---
-
-## Travel
+# Travel
 **Travel policies:**
 - [MS 801 - Travel Card Program](https://intranet.peacecorps.gov/pcmanual/Documents/MS-801-Policy.docx?Web=1)
 - [MS 812 - Peace Corps Staff Travel and Transportation](https://intranet.peacecorps.gov/pcmanual/Documents/MS-812-Policy.docx?Web=1)
@@ -79,8 +78,8 @@ Make sure you have the following before your international trip:
 - Receipts **are not** required for meals/snacks/incidental expenses. Travelers are paid per diem to cover these expenses.
 - For lost receipts, please attach the following affidavit: [Lost/Unavailable Receipt or Invoice ](https://in.peacecorps.gov/HQ/EA/Admin Files/Missing Receipt Waiver.docx?Web=1)
 - Submit the Travel Voucher form and support documentation/receipts electronically to EAAdmin@peacecorps.gov
-- GAP Travel has 30 days to process voucher from date of submission
-- Reimbursement is issued by EFT to the bank account
+- GAP Travel has 30 days to process voucher from date of submission.
+- Reimbursement is issued by EFT to the traveler's bank account as a lump sum payment, separate from your paycheck.
 
 ## Travel Voucher form
 You must submit a Travel Voucher within 5 days of returning from your trip. It is possible that you may not be reimbursed for certain expenses if you wait too long to submit your Travel Voucher.
