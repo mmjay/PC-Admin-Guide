@@ -92,11 +92,52 @@
       color: #0275d8;
       line-height: 3;
     }
+
+    .scrolltop{
+      display:none;
+      width:100%;
+      margin: 0 auto;
+      position:fixed;
+      bottom: 20px;
+      right: 10px;
+    }
+    .scroll{
+      position: absolute;
+      right: 20px;
+      bottom: 20px;
+      background: #b2b2b2;
+      background:rgba(178,178,178,.7);
+      padding: 20px;
+      text-align: center;
+      margin: 0 0 0 0;
+      cursor: pointer;
+      transition: 0.5s;
+      -moz-transition: 0.5s;
+      -webkit-transition: 0.5s;
+      -o-transition: 0.5s;
+    }
+    .scroll:hover{
+      background:rgba(178,178,178,1);
+      transition: 0.5s;
+      -moz-transition: 0.5s;
+      -webkit-transition: 0.5s;
+      -o-transition: 0.5s;
+    }
+    .scroll .fa{
+      font-size:30px;
+      margin-top:-5px;
+      margin-left:1px;
+      transition: 0.5s;
+      -moz-transition: 0.5s;
+      -webkit-transition: 0.5s;
+      -o-transition: 0.5s;
+    }
 </style>
 
 </asp:Content>
 <asp:Content ContentPlaceHolderID="PlaceHolderMain" runat="server">
-    <br><Br><div class="container-fluid"><div class="row">
+    <div class="thetop"></div>
+<br><Br><div class="container-fluid"><div class="row">
 <div class="col-8">
 
 
@@ -166,7 +207,6 @@
   </tbody>
 </table>
 
-            <br><a href="#top" class="lead">Back to top</a>
             <hr><br>  <h1 id="department-info">Department info</h1>
 <p>The Office of External Affairs provides coordination and support for the Peace Corps’ external engagement with other agencies and partners, the media, and Congress.</p>
 
@@ -174,7 +214,6 @@
 <p><a class="list-group"><a href="img/org-chart.pdf">Organizational Charts, as of 2/17/2017</a>
 </a></p>
 
-            <br><a href="#top" class="lead">Back to top</a>
             <hr><br>  <h1 id="travel">Travel</h1>
 <p><strong>Travel policies:</strong></p>
 <ul>
@@ -185,11 +224,10 @@
 <p><strong>Frequently used forms:</strong></p>
 <ul>
   <li><a href="https://in.peacecorps.gov/HQ/EA/Admin Files/PC-840 Travel Authorization.pdf?Web=1">PC-840 Travel Authorization</a></li>
-  <li><a href="https://in.peacecorps.gov/HQ/EA/Admin Files/Travel Justification memo.docx?Web=1">Travel Justification memo</a></li>
   <li><a href="https://in.peacecorps.gov/HQ/EA/Admin Files/SF-1012 Travel Voucher.pdf?Web=1">SF-1012 Travel Voucher</a></li>
 </ul>
 
-<p><strong>SATO Contact Information (Travel Agent):</strong></p>
+<p><strong>Travel agent contact (SATO):</strong></p>
 <ul>
   <li>202-692-1170 or SATO@peacecorps.gov</li>
   <li>Open business hours 8:00am to 5:15pm</li>
@@ -198,8 +236,7 @@
 
 <p><strong>Reminders:</strong></p>
 <ul>
-  <li>Travel is always approved via travel authorization (see below).</li>
-  <li>All domestic and overseas travel must be approved by the Chief of Staff (see below, as of FY17Q2).</li>
+  <li>Travel is always approved via travel authorization (TA) (see below).</li>
   <li>You may take paid time-off in conjunction with travel, if approved by your supervisor.</li>
   <li>You may deviate from the official travel route, if approved by your supervisor. Reimbursement cannot exceed the original SATO quote.</li>
 </ul>
@@ -241,7 +278,7 @@
     
       <td>Supervisor, CAO, A/D, Region</td>
     
-      <td>With Supervisor's support, Traveler secures necessary travel approval.<br /><br /><ul><li>Domestic: CAO or A/D</li><li>Overseas: CAO approval first, then Region approval (email from ChOPs/ChIPs), and finally A/D approval</li></ul></td>
+      <td>With Supervisor's support, Traveler secures necessary travel approval.<br /><br /><ul><li>Domestic: CAO</li><li>Overseas: CAO and R/D</li></ul></td>
     
     </tr>
     
@@ -253,7 +290,7 @@
     
       <td>SATO</td>
     
-      <td>Traveler obtains quote and itinerary from Peace Corps' travel agent, SATO, by emailing SATO@peacecorps.gov the following information:<br /><br /><ol><li>Legal name as written on ID card</li><li>Proceed date with origin and destination cities</li><li>Return date with origin and destination cities.</li><li>Domestic lodging requirements, such as hotel name, number of nights, etc. Overseas lodging must be secured directly with the hotel.</li></ol><a href="https://intranet.peacecorps.gov/Offices/T/Documents/m-as-t-travel-airbnb.pdf?Web=1">Airbnb reservations</a></td>
+      <td>Traveler obtains quote and itinerary from Peace Corps' travel agent, SATO, by emailing SATO@peacecorps.gov the following information:<br /><br /><ol><li>Legal name as written on ID card</li><li>Proceed date with origin and destination cities</li><li>Return date with origin and destination cities.</li><li>Domestic lodging requirements, such as hotel name, number of nights, etc. Overseas lodging must be secured directly with the hotel.</li></ol>See this advisory for <a href="https://intranet.peacecorps.gov/Offices/T/Documents/m-as-t-travel-airbnb.pdf?Web=1">Airbnb reservations</a></td>
     
     </tr>
     
@@ -265,7 +302,7 @@
     
       <td>EA Admin</td>
     
-      <td>Traveler prepares Travel Authorization form and Travel Justification memo and submits to EA Admin.<br /><br /><ol><li><a href="https://in.peacecorps.gov/HQ/EA/Admin Files/PC-840 Travel Authorization.pdf?Web=1">PC-840 Travel Authorization</a></li><ul><li><a href="https://in.peacecorps.gov/HQ/EA/Admin Files/Example Authorization- JFK.pdf?Web=1">Ex. Travel Authorization</a></li></ul><li><a href="https://in.peacecorps.gov/HQ/EA/Admin Files/Travel Justification memo.docx?Web=1">Travel Justification memo</a></li></ol>For approved paid time-off, follow these instructions: <a href="https://intranet.peacecorps.gov/Offices/T/Documents/m-as-t-travel-indirect.pdf?Web=1">Cost construct for indirect travel</a>.</td>
+      <td>Traveler prepares travel authorization (TA) form and submits to EA Admin.<br /><br /><ul><li><a href="https://in.peacecorps.gov/HQ/EA/Admin Files/PC-840 Travel Authorization.pdf?Web=1">PC-840 Travel Authorization</a></li><ul><li><a href="https://in.peacecorps.gov/HQ/EA/Admin Files/Example Authorization- JFK.pdf?Web=1">Example TA</a></li></ul></ul>For approved paid time-off, follow these instructions:<br /><br /><ul><li><a href="https://intranet.peacecorps.gov/Offices/T/Documents/m-as-t-travel-indirect.pdf?Web=1">Cost construct for indirect travel</a>.</li></ul></td>
     
     </tr>
     
@@ -275,9 +312,9 @@
     
       <td>EA Admin</td>
     
-      <td>Transportation and Chief of Staff</td>
+      <td>CAO and Transportation</td>
     
-      <td>EA Admin reviews Travel Authorization and Travel Justification memo for accuracy and submits to CAO for financial approval. EA Admin then submits to Chief of Staff for programmatic approval. COS approves/denies travel request and returns to EA Admin. EA Admin then submits final documents to Transportation for ticketing.<br /><br />Est. timeframe: 3 business days.</td>
+      <td>EA Admin reviews the TA for accuracy and submits to CAO and R/D (if applicable) for final approval. EA Admin then submits final documents to Transportation for ticketing.<br /><br />Est. timeframe: 1-3 business days.</td>
     
     </tr>
     
@@ -309,28 +346,28 @@
 </table>
 
 <h2 id="international-travel-approval">International travel approval</h2>
-<p>International travel follows the above travel authorization process, <strong>but requires approval from the Region</strong>.</p>
+<p>International travel follows the above travel authorization process, <strong>but requires approval by the appropriate Regional Director, as evidenced by their signature on the traveler’s travel authorization (TA)</strong>.</p>
 <ul>
-  <li>International travel approval takes 1 business week. To start the process, contact your supervisor and the EA Admin team.</li>
   <li>Requests for site visits from post do not constitute travel approval.</li>
-  <li>Staff should not reach out to post without direct approval from the Region.</li>
-  <li>Do not begin making travel arrangements until you have direct approval from the Region.</li>
+  <li>Staff should not reach out to post without approval by the appropriate Regional Director.</li>
+  <li>Staff should not plan travel logistics without approval by the appropriate Regional Director.</li>
 </ul>
 
-<h2 id="overseas-travel-checklist">Overseas travel checklist</h2>
+<h2 id="international-travel-checklist">International travel checklist</h2>
 <p>Make sure you have the following before your international trip:</p>
 <ul>
   <li>Approved TA</li>
   <li>Ticketed airfare</li>
   <li>Detailed travel itinerary (developed in conjunction with Post)</li>
-  <li>Official passport
+  <li>Official passport (mandatory)
     <ul>
       <li>Apply with SATO</li>
+      <li><a href="peacecorps.libguides.com/Id.php?content_id=29130866">Passport application guidance</a></li>
     </ul>
   </li>
   <li>Travel card
     <ul>
-      <li><a href="https://intranet.peacecorps.gov/Offices/T/Documents/m-as-t-gtcc-ibt-ch.pdf?Web=1">https://intranet.peacecorps.gov/Offices/T/Documents/m-as-t-gtcc-ibt-ch.pdf</a></li>
+      <li><a href="https://intranet.peacecorps.gov/Offices/T/Documents/m-as-t-gtcc-ibt-ch.pdf?Web=1">Travel card application guidance</a></li>
     </ul>
   </li>
   <li>Visa(s) for each destination as applicable
@@ -345,16 +382,17 @@
 <br /><em>Travel-related immunizations received outside of State Department can be reimbursed if the TA specifically authorizes it</em></li>
     </ul>
   </li>
-  <li>eCountry Clearance
+  <li>eCountry Clearance (i.e., registering travel with the US Embassy)
     <ul>
       <li><a href="https://ecc.state.gov/security/EccLogin.aspx">https://ecc.state.gov/security/EccLogin.aspx</a></li>
     </ul>
   </li>
 </ul>
 
-<h2 id="travel-reimbursement">Travel Reimbursement</h2>
+<h2 id="travel-voucher-and-reimbursement">Travel voucher and reimbursement</h2>
 <ul>
   <li>Travel reimbursement is submitted via the Travel Voucher form within 5 business days of return.</li>
+  <li><a href="https://in.peacecorps.gov/HQ/EA/Admin Files/SF-1012 Travel Voucher.pdf?Web=1">SF-1012 Travel Voucher</a></li>
   <li>Receipts <strong>are</strong> required for each expense ≥$75. Receipts for expenses ≤$75 are encouraged but not required.</li>
   <li>Receipts <strong>are not</strong> required for meals/snacks/incidental expenses. Travelers are paid per diem to cover these expenses.</li>
   <li>For lost receipts, please attach the following affidavit: <a href="https://in.peacecorps.gov/HQ/EA/Admin Files/Missing Receipt Waiver.docx?Web=1">Lost/Unavailable Receipt or Invoice </a></li>
@@ -363,14 +401,6 @@
   <li>Reimbursement is issued by EFT to the traveler’s bank account as a lump sum payment, separate from your paycheck.</li>
 </ul>
 
-<h2 id="travel-voucher-form">Travel Voucher form</h2>
-<p>You must submit a Travel Voucher within 5 days of returning from your trip. It is possible that you may not be reimbursed for certain expenses if you wait too long to submit your Travel Voucher.
-You can find a blank Travel Voucher form with instructions and an example voucher here.
-Submit your Travel Voucher and all of your receipts to the Administrative Specialist, who will review for accuracy, and submit to the CAO.
-CAO will submit signed Travel Voucher to Gap Travel, who will begin the process of reimbursement.
-If applicable- pay any outstanding Travel Card charges.</p>
-
-            <br><a href="#top" class="lead">Back to top</a>
             <hr><br>  <h1 id="purchasing">Purchasing</h1>
 <p>This section is a reference for External Affairs staff needing to place orders for services ≤$2,500 or supplies ≤$3,500.</p>
 
@@ -632,10 +662,8 @@ If applicable- pay any outstanding Travel Card charges.</p>
 
 <h2 id="purchase-card-logs">Purchase card logs</h2>
 
-            <br><a href="#top" class="lead">Back to top</a>
             <hr><br>  <h1 id="hiring">Hiring</h1>
 
-            <br><a href="#top" class="lead">Back to top</a>
             <hr><br>  <h1 id="internships">Internships</h1>
 <p>Our office follows M/HRM’s procedures for student internships. You can reference that document here:</p>
 
@@ -993,7 +1021,6 @@ All interns must attend orientation unless attended in the past 3 years. Orienta
 
 <p>HRM files internship applications in <u>S:\@Agency_All\Intern and Student Programs</u> as they are received.</p>
 
-            <br><a href="#top" class="lead">Back to top</a>
             <hr><br>  <h1 id="staff-development">Staff development</h1>
 <p>You can find the agency’s training policy here:</p>
 
@@ -1234,7 +1261,6 @@ All interns must attend orientation unless attended in the past 3 years. Orienta
   <li>The individual will share knowledge obtained from the conference with others upon return to the job.</li>
 </ul>
 
-            <br><a href="#top" class="lead">Back to top</a>
             <hr><br>  <h1 id="contract-management">Contract management</h1>
 
 <h2 id="contract-files">Contract files</h2>
@@ -1290,10 +1316,8 @@ All interns must attend orientation unless attended in the past 3 years. Orienta
   </li>
 </ol>
 
-            <br><a href="#top" class="lead">Back to top</a>
             <hr><br>  
 
-            <br><a href="#top" class="lead">Back to top</a>
             <hr><br> 
         </div>
 
@@ -1355,8 +1379,24 @@ All interns must attend orientation unless attended in the past 3 years. Orienta
           
           
           <li>
-              <a class="nav-link bd-sidenav" href="#preparing-to-travel">
-                Preparing to travel
+              <a class="nav-link bd-sidenav" href="#travel-authorization-process">
+                Travel authorization
+              </a>
+          </li>
+              
+          
+          
+          <li>
+              <a class="nav-link bd-sidenav" href="#international-travel-checklist">
+                International travel checklist
+              </a>
+          </li>
+              
+          
+          
+          <li>
+              <a class="nav-link bd-sidenav" href="Travel voucher and reimbursement">
+                Travel reimbursement
               </a>
           </li>
               
@@ -1586,7 +1626,9 @@ All interns must attend orientation unless attended in the past 3 years. Orienta
   </div>
 </footer>
 
-
+<div class="scrolltop">
+	<div class="scroll icon"><i class="fa fa-4x fa-angle-up"></i></div>
+</div>
 
     <!-- JavaScript -->
 
@@ -1631,6 +1673,16 @@ $("#navbar-content a").on('click', function(event) {
   } // End if
 
 });
+
+$(window).scroll(function(){
+  if ($(this).scrollTop() > 50) {
+    $('.scrolltop:hidden').stop(true, true).fadeIn();
+  } else {
+    $('.scrolltop').stop(true, true).fadeOut();
+  }
+});
+$(function(){$(".scroll").click(function(){
+  $("html,body").animate({scrollTop:$(".thetop").offset().top},"1000");return false})});
 
 </script>
 

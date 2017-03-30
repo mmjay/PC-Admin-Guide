@@ -3,8 +3,12 @@ layout: post
 title: Travel
 href: "#travel"
 h2:
- - title: "Preparing to travel"
-   href: "#preparing-to-travel"
+ - title: "Travel authorization"
+   href: "#travel-authorization-process"
+ - title: "International travel checklist"
+   href: "#international-travel-checklist"
+ - title: "Travel reimbursement"
+   href: "Travel voucher and reimbursement"
 ---
 # Travel
 **Travel policies:**
@@ -13,17 +17,15 @@ h2:
 
 **Frequently used forms:**
 - [PC-840 Travel Authorization](https://in.peacecorps.gov/HQ/EA/Admin Files/PC-840 Travel Authorization.pdf?Web=1)
-- [Travel Justification memo](https://in.peacecorps.gov/HQ/EA/Admin Files/Travel Justification memo.docx?Web=1)
 - [SF-1012 Travel Voucher](https://in.peacecorps.gov/HQ/EA/Admin Files/SF-1012 Travel Voucher.pdf?Web=1)
 
-**SATO Contact Information (Travel Agent):**
+**Travel agent contact (SATO):**
 - 202-692-1170 or SATO@peacecorps.gov
 - Open business hours 8:00am to 5:15pm
 - 2nd floor of PCHQ
 
 **Reminders:**
-- Travel is always approved via travel authorization (see below).
-- All domestic and overseas travel must be approved by the Chief of Staff (see below, as of FY17Q2).
+- Travel is always approved via travel authorization (TA) (see below).
 - You may take paid time-off in conjunction with travel, if approved by your supervisor.
 - You may deviate from the official travel route, if approved by your supervisor. Reimbursement cannot exceed the original SATO quote.
 
@@ -48,42 +50,36 @@ h2:
 </table>
 
 ## International travel approval
-International travel follows the above travel authorization process, **but requires approval from the Region**.
-- International travel approval takes 1 business week. To start the process, contact your supervisor and the EA Admin team.
+International travel follows the above travel authorization process, **but requires approval by the appropriate Regional Director, as evidenced by their signature on the traveler's travel authorization (TA)**.
 - Requests for site visits from post do not constitute travel approval.
-- Staff should not reach out to post without direct approval from the Region.
-- Do not begin making travel arrangements until you have direct approval from the Region.
+- Staff should not reach out to post without approval by the appropriate Regional Director.
+- Staff should not plan travel logistics without approval by the appropriate Regional Director.
 
-## Overseas travel checklist
+## International travel checklist
 Make sure you have the following before your international trip:
 - Approved TA
 - Ticketed airfare
 - Detailed travel itinerary (developed in conjunction with Post)
-- Official passport
+- Official passport (mandatory)
   - Apply with SATO
+  - [Passport application guidance](peacecorps.libguides.com/Id.php?content_id=29130866)
 - Travel card
-  - [https://intranet.peacecorps.gov/Offices/T/Documents/m-as-t-gtcc-ibt-ch.pdf](https://intranet.peacecorps.gov/Offices/T/Documents/m-as-t-gtcc-ibt-ch.pdf?Web=1)
+  - [Travel card application guidance](https://intranet.peacecorps.gov/Offices/T/Documents/m-as-t-gtcc-ibt-ch.pdf?Web=1)
 - Visa(s) for each destination as applicable
   - [https://travel.state.gov/content/passports/en/country.html](https://travel.state.gov/content/passports/en/country.html)
 - Immunizations
   - CDC: [https://wwwnc.cdc.gov/travel/destinations/list](https://wwwnc.cdc.gov/travel/destinations/list)
   - State Department: [https://www.state.gov/m/fsi/tc/1865.htm](https://www.state.gov/m/fsi/tc/1865.htm)
   <br>_Travel-related immunizations received outside of State Department can be reimbursed if the TA specifically authorizes it_
-- eCountry Clearance
+- eCountry Clearance (i.e., registering travel with the US Embassy)
   - [https://ecc.state.gov/security/EccLogin.aspx](https://ecc.state.gov/security/EccLogin.aspx)
 
-## Travel Reimbursement
+## Travel voucher and reimbursement
 - Travel reimbursement is submitted via the Travel Voucher form within 5 business days of return.
+ - [SF-1012 Travel Voucher](https://in.peacecorps.gov/HQ/EA/Admin Files/SF-1012 Travel Voucher.pdf?Web=1)
 - Receipts **are** required for each expense ≥$75. Receipts for expenses ≤$75 are encouraged but not required.
 - Receipts **are not** required for meals/snacks/incidental expenses. Travelers are paid per diem to cover these expenses.
 - For lost receipts, please attach the following affidavit: [Lost/Unavailable Receipt or Invoice ](https://in.peacecorps.gov/HQ/EA/Admin Files/Missing Receipt Waiver.docx?Web=1)
 - Submit the Travel Voucher form and support documentation/receipts electronically to EAAdmin@peacecorps.gov
 - GAP Travel has 30 days to process voucher from date of submission.
 - Reimbursement is issued by EFT to the traveler's bank account as a lump sum payment, separate from your paycheck.
-
-## Travel Voucher form
-You must submit a Travel Voucher within 5 days of returning from your trip. It is possible that you may not be reimbursed for certain expenses if you wait too long to submit your Travel Voucher.
-You can find a blank Travel Voucher form with instructions and an example voucher here.
-Submit your Travel Voucher and all of your receipts to the Administrative Specialist, who will review for accuracy, and submit to the CAO.
-CAO will submit signed Travel Voucher to Gap Travel, who will begin the process of reimbursement.
-If applicable- pay any outstanding Travel Card charges.
